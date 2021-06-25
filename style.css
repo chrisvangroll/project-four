@@ -802,6 +802,7 @@ h4 {
 .btn-atomic-tangerine {
     background: #d36f3f;
     color: black!important;
+    white-space: normal;
 }
 
 .btn-atomic-tangerine:hover {
