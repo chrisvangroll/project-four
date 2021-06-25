@@ -818,7 +818,9 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: white;
+    font-weight: 800;
+    text-decoration: underline;
 }
 
 .ltc-atomic-tangerine:hover {
